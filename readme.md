@@ -1,3 +1,5 @@
+[Public link to the notebook](https://public.paws.wmcloud.org/User:A1exGP/first%20submission/image_similarity.ipynb)
+
 `get_features.py` includes functions from [Wikimania 19](https://github.com/mirrys/Wikimania_19_Tutorial/). `image_similarity_tools.py` was slightly modified from the downloadable and the main notebook modified accordingly, `image_similarity.ipynb` should be run-all-able.
 
 Work still to be done:
